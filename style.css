@@ -1,13 +1,13 @@
 body {
     font: 16px/28px comic sans ms;
     background-image: url("lb.jpg");
-    color: goldenrod;
+    color: lightgreen;
 }
 
 .container {
     width: 800px;
     margin: auto;
-    background-color: oldlace;
+    background-color: honeydew;
 }
 
 .header { 
