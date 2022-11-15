@@ -35,13 +35,13 @@ let questions = [
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Seorang presiden negara membutuhkan pengawal keamanan dalam kegiatan sehari-harinya. Kebutuhan tersebut muncul dipengaruhi oleh faktor....",
+    answer: "Status sosial",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "pendapatan",
+      "Selera",
+      "kebudayaan",
+      "status sosial"
     ]
   },
     {
@@ -55,17 +55,7 @@ let questions = [
       "menyeluruh"
     ]
   },
-   {
-    numb: 6,
-    question: "bahasa yang cocok untuk data science?",
-    answer: "python",
-    options: [
-      "javascript",
-      "html",
-      "python",
-      "ruby"
-    ]
-   }
+
 
 
 
