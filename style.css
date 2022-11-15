@@ -1,0 +1,67 @@
+body {
+    font: 16px/28px comic sans ms;
+    background-image: url("lb.jpg");
+    color: goldenrod;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: oldlace;
+}
+
+.header { 
+    padding: 20px;
+}
+
+.header h1 {
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.header
+.tujuan {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+}
+
+.hero {
+    width: 800px;
+    border-top: 5px solid lightskyblue;
+    border-bottom: 5px solid lightskyblue;   
+}
+
+
+.main {
+    padding: 20px;
+    background-color: grey;
+}
+
+.main h4 {
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.main p{
+    color: white;
+    font-size: 16px;
+}
+
+.main b{
+    color: red;
+}
+
+.main li {
+    color: lightgreen;
+}
